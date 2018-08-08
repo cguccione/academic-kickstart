@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Estimating error models for whole genome sequencing using mixtures of Dirichlet-multinomial distributions"
 date = 2017-03-15T14:17:55-04:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["Steven H Wu", "Rachel S Schwartz", "David J Winter", "Donald F Conra
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Estimating error models for whole genome sequencing using mixtures of Dirichlet-multinomial distributions"
+publication = "Bioinformatics 33: 2322-2329"
 publication_short = ""
 
 # Abstract and optional shortened version.

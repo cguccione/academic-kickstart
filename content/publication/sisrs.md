@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "A composite genome approach to identify phylogenetically informative data from next-generation sequencing"
 date = 2015-12-08T10:57:26-04:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["RS Schwartz", "KM Harkins", "AC Stone", "RA Cartwright"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "A composite genome approach to identify phylogenetically informative data from next-generation sequencing"
+publication = "BMC bioinformatics 16 (1), 193"
 publication_short = ""
 
 # Abstract and optional shortened version.

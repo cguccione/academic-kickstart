@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "The importance of selection in the evolution of blindness in cavefish"
 date = 2017-12-08T14:17:45-04:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["Reed A Cartwright", "Rachel S Schwartz", "Alexandra L Merry", "Megan
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "The importance of selection in the evolution of blindness in cavefish"
+publication = "BMC evolutionary biology"
 publication_short = ""
 
 # Abstract and optional shortened version.

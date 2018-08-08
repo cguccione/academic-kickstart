@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Whole genome sequencing of field isolates reveals extensive genetic diversity in Plasmodium vivax from Colombia"
 date = 2015-12-28T14:18:10-04:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["David J Winter", "M Andreína Pacheco", "Andres F Vallejo", "Rachel 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Whole genome sequencing of field isolates reveals extensive genetic diversity in Plasmodium vivax from Colombia"
+publication = "PLoS neglected tropical diseases 9 (12), e0004252"
 publication_short = ""
 
 # Abstract and optional shortened version.

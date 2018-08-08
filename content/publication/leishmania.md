@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Phylogenomic reconstruction supports supercontinent origins for Leishmania"
 date = 2016-03-31T14:18:05-04:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["Kelly M Harkins", "Rachel S Schwartz", "Reed A Cartwright", "Anne C 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Phylogenomic reconstruction supports supercontinent origins for Leishmania"
+publication = "Infection, Genetics and Evolution 38, 101-109"
 publication_short = ""
 
 # Abstract and optional shortened version.

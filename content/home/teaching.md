@@ -13,8 +13,8 @@ weight = 60
 
 +++
 
-BIO181G
+[The Information Age: BIO181G](https://schwartzlaburi.github.io/BIO181G/)
 
-BIO/DSP 439/539
+[Big Data Analysis: BIO/DSP 439/539](https://rachelss.github.io/BigDataAnalysis18/)
 
-[BIO263](https://rachelss.github.io/BIO263_Fall18/index.html)
+[Ecological Data Analysis: BIO263](https://rachelss.github.io/BIO263_Fall18/index.html)

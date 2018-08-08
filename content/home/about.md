@@ -27,6 +27,8 @@ weight = 5
  
 +++
 
-# Biography
+# About the lab
 
-I am an Assistant Professor at the Univeristy of Rhode Island. I run a dry lab focused on computational evolutionary genetics. My interest is in developing methods to understand evolution, with a particular focus on how we analyze large genomics datasets. I also have an interest in reproducible research and in teaching research skills to students and other researchers.
+We are a dry lab focused on computational evolutionary genetics. We develop methods and software to understand evolutionary history, with a particular focus on large genomics datasets. Researchers in the lab come from the fields of computer science, math, and evolutionary biology.
+
+We also work to make our research reproducible and teach research skills to students and other researchers.

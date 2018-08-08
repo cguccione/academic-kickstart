@@ -1,5 +1,5 @@
 +++
-title = "Leishmania"
+title = ""
 date = 2018-08-08T14:18:05-04:00
 draft = false
 

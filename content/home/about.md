@@ -8,22 +8,22 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Phylogenetics",
-    "Bioinformatics"
-  ]
+# [interests]
+#   interests = [
+#     "Phylogenetics",
+#     "Bioinformatics"
+#   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Ecology"
-  institution = "University of California, Davis"
-  year = 2008
-
-[[education.courses]]
-  course = "AB in Biology"
-  institution = "Bryn Mawr College"
-  year = 2001
+# [[education.courses]]
+#   course = "PhD in Ecology"
+#   institution = "University of California, Davis"
+#   year = 2008
+# 
+# [[education.courses]]
+#   course = "AB in Biology"
+#   institution = "Bryn Mawr College"
+#   year = 2001
  
 +++
 

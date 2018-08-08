@@ -1,5 +1,5 @@
 +++
-title = "Whole genome sequencing of field isolates reveals extensive genetic diversity in Plasmodium vivax from Colombia"
+title = ""
 date = 2018-08-08T14:18:10-04:00
 draft = false
 

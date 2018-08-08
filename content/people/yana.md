@@ -1,5 +1,5 @@
 +++
-title = "Yana"
+title = "Yana Hrytsenko (CS grad student)"
 date = 2016-08-08T15:25:00-04:00
 draft = false
 

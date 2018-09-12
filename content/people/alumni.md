@@ -18,8 +18,8 @@ caption = ""
 
 ### Undergraduates
 
-- Baizat Ibrahim
-- AY Akinomide
-- Marygrace Trousdell
-- Nicholas Barone
-- Talia Santos
+- Baizat Ibrahim (S&E Fellow Summer 2018)
+- AY Akinomide (S&E Fellow Summer 2018)
+- Marygrace Trousdell (2017-2018)
+- Nicholas Barone (2018)
+- Talia Santos (S&E Fellow 2018)

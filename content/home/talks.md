@@ -28,12 +28,12 @@ list_format = 0
 #### July
 - Rachel presented Eren's poster on speciation rates in birds at Evolution, Montpellier, France
 
-- Eren gave a talk on speciation rates in birds at Ecology and Evolutionary Biology Symposium, Istanbul, Turkey
+- Eren gave a talk on speciation rates in birds at Ecology and Evolutionary Biology Symposium, Izmir, Turkey
 
 #### June
 - Baizat Ibrahim and AY Akinomide join the lab as summer interns
 
 - Bob gave a talk at the Society for Systematic Biology, Columbus, OH
 
-#### May 
+#### May
 - Rachel presented at SEMIRATA in Medan, Indonesia, and gave workshops in Medan and Jakarta

@@ -1,4 +1,10 @@
-# Academic Kickstart
+# How to update this website
+
+* Make changes to the md files in the content folder
+* Add, commit, and push changes to the fork of academic-kickstart
+* Run deploy.sh to (1) build with hugo, (2) add, commit, and push website changes to schwartzlaburi.github.io
+
+# Academic Kickstart (the general info)
 
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
 

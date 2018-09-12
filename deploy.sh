@@ -22,3 +22,5 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+
+echo "Make sure to add and commit to the source files!!!!"

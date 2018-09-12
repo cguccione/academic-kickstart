@@ -20,14 +20,20 @@ list_format = 0
 
 +++
 
-Yana presents a poster at ACM BCB 2018
+### 2018
 
-Eren presents a poster at Evolution 2018
+#### August
+- Yana presented a poster at ACM BCB in Washington, DC
 
-Eren gives a talk at ?, Istanbul
+#### July
+- Rachel presented Eren's poster on speciation rates in birds at Evolution, Montpellier, France
 
-Baizat and AY join the lab as summer interns
+- Eren gave a talk on speciation rates in birds at Ecology and Evolutionary Biology Symposium, Istanbul, Turkey
 
-Bob gives a talk at SSB 2018
+#### June
+- Baizat Ibrahim and AY Akinomide join the lab as summer interns
 
-Rachel visits Indonesia for workshops and a talk
+- Bob gave a talk at the Society for Systematic Biology, Columbus, OH
+
+#### May 
+- Rachel presented at SEMIRATA in Medan, Indonesia, and gave workshops in Medan and Jakarta

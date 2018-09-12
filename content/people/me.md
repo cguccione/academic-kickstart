@@ -1,6 +1,6 @@
 +++
 title = "Rachel Schwartz (PI)"
-date = 2018-08-08T12:37:53-04:00
+date = 2100-08-08T12:37:53-04:00
 draft = false
 
 # Tags and categories
@@ -13,6 +13,27 @@ categories = []
 [header]
 image = ""
 caption = ""
+
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fa"
+  link = "mailto:rsschwartz@uri.edu"
+
+[[params.social]]
+  icon = "twitter"
+  icon_pack = "fa"
+  link = "//twitter.com/rachelss"
+
+[[params.social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=z-xKqyIAAAAJ&hl=en"
+
+[[params.social]]
+  icon = "github"
+  icon_pack = "fa"
+  link = "//github.com/rachelss"
+
 
 +++
 

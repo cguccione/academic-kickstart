@@ -1,6 +1,6 @@
 +++
-title = "Eren Ada (BES grad student)"
-date = 2017-08-08T15:25:03-04:00
+title = "Caitlin Guccione (CS undergraduate)"
+date = 2001-08-08T15:25:00-04:00
 draft = false
 
 # Tags and categories

@@ -1,6 +1,6 @@
 +++
-title = "Eren Ada (BES grad student)"
-date = 2017-08-08T15:25:03-04:00
+title = "Alumni"
+date = 2000-08-08T15:25:00-04:00
 draft = false
 
 # Tags and categories
@@ -15,3 +15,11 @@ image = ""
 caption = ""
 
 +++
+
+### Undergraduates
+
+- Baizat Ibrahim
+- AY Akinomide
+- Marygrace Trousdell
+- Nicholas Barone
+- Talia Santos
